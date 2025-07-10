@@ -1,4 +1,5 @@
-fichero 2
+Sorpresa.
+
+Archivo editado con vim desde git bash
 
 
-Nuevos cambios para githubDesktop
